@@ -759,4 +759,9 @@ footer .navigation-bar .social-links i:not(:last-child) {
   footer .navigation-bar .social-links i:not(:last-child) {
     margin: 10px;
   }
+  
+  .contact {
+    width: calc(100%);
+  }
+  
 }
