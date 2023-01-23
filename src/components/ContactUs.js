@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-        <div className="contact scroll-style">
+        <div className="contact scroll-style" id="ContactUs">
             <div className="temp-title flex">
                 <h2>Contact<br />us</h2>
             </div>
