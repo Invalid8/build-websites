@@ -1,4 +1,3 @@
-import { Link } from 'react-router';
 const Navbar = () => {
 
     return (
@@ -38,11 +37,11 @@ const Navbar = () => {
                     }}></i>
                 </button>
                 <ul>
-                    <li><a href="/">about us</a></li>
-                    <li><a href="/">products</a></li>
-                    <li><a href="/">press</a></li>
-                    <li><a href="/">careers</a></li>
-                    <li><a href="/">contact us</a></li>
+                    <li><a href="#AboutUs">about us</a></li>
+                    <li><a href="#Product">products</a></li>
+                    <li><a href="#Press">press</a></li>
+                    <li><a href="#Careers">careers</a></li>
+                    <li><a href="#ContactUs">contact us</a></li>
                 </ul>
                 <div className="searchBox flex">
                     <input type="search" name="search" className="search-input" />
