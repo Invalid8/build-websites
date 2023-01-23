@@ -5,7 +5,7 @@ const Products = () => {
                 <h2>pro<br />ducts</h2>
             </div>
             <div className="p-modal">
-                <h3><img src={require("../images/citirx.svg")} alt="" /></h3>
+                <h3>Areo Space</h3>
                 <h5>airline<br /> solution</h5>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -18,7 +18,7 @@ const Products = () => {
                 </button>
             </div>
             <div className="p-modal">
-                <h3><img src={require("../images/github.svg")} alt="..." /></h3>
+                <h3>Tech Swift</h3>
                 <h5>tech <br /> solution</h5>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
