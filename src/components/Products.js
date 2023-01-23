@@ -1,6 +1,6 @@
 const Products = () => {
     return (
-        <div className="products scroll-style">
+        <div className="products scroll-style" id="Products">
             <div className="temp-title flex">
                 <h2>pro<br />ducts</h2>
             </div>
