@@ -30,11 +30,11 @@ const Home = () => {
                 !isPending &&
                 <>
                     <Banner />
-                    <AboutUs />
-                    <Products />
-                    <Press />
-                    <Contact />
-                    <Footer />
+                    <AboutUs id="AboutUs"/>
+                    <Products id="Product"/>
+                    <Press id="Press"/>
+                    <Contact id="ContactUs"/>
+                    <Footer/>
                 </>
             }
         </>
