@@ -1,6 +1,6 @@
 const Press = () => {
     return (
-        <div className="press temp-2 col-2-grid">
+        <div className="press temp-2 col-2-grid id="Press">
             <div className="temp-2-info-container flex">
                 <h3>
                     Infinte sofware solutions plans global extensions
