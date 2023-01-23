@@ -1,6 +1,6 @@
 const AboutUs = () => {
     return (
-        <div className="about temp-2 col-2-grid">
+        <div className="about temp-2 col-2-grid" id="About">
             <div className="ref-corner col-2-grid">
                 <div className="temp-title flex">
                     <h2>About<br />us</h2>
